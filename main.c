@@ -26,8 +26,8 @@
 // macOS users, swap/adjust these includes:
 // https://github.com/user-none/sixaxispairer/issues/5
 // pkg-config --cflags hidapi
-#include </opt/homebrew/Cellar/hidapi/0.13.1/include/hidapi/hidapi.h>
-// #include <hidapi/hidapi.h>
+// #include </opt/homebrew/Cellar/hidapi/0.13.1/include/hidapi/hidapi.h>
+#include <hidapi/hidapi.h>
 
 #define VENDOR 0x054c
 #define PRODUCT 0x05C4
