@@ -22,7 +22,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
-
+#include <ctype.h>
 // macOS users, swap/adjust these includes:
 // https://github.com/user-none/sixaxispairer/issues/5
 // pkg-config --cflags hidapi
