@@ -4,7 +4,7 @@ A tool for viewing and setting the Bluetooth address a DualShock 4 controller is
 
 # Dependencies
 
-([HID API]https://github.com/signal11/hidapi)
+HID API https://github.com/signal11/hidapi
 
 # Supported Platforms
 * Linux
