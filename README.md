@@ -9,7 +9,7 @@ HID API https://github.com/signal11/hidapi
 # Supported Platforms
 * Linux
 
-# Building
+# Building and using
 
 ``` bash
 git clone https://github.com/SveinIsdahl/PS4-controller-pairer
